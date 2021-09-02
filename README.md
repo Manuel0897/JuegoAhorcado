@@ -1,2 +1,2 @@
 # JuegoAhorcado
-Juego del ahorcado para el Curso de Python Intermedio de Platzi
+Juego del ahorcado básico en Python
